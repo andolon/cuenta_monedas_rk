@@ -3,7 +3,6 @@ Contador de monedas para probar monederos, sensores, detectores de monedas que f
 
 ![Captura de pantalla](https://github.com/andolon/cuenta_monedas_rk/blob/master/captura.png?raw=true)
 
-Para ayudar en la reparación o fabricación de monederos 
-==coin sensor==
+Para ayudar en la reparación o fabricación de monederos  (**coin sensor**, termino en inglés).
 
 El cursor del mouse se apoya sobre la pantalla y se introducen las monedas.
